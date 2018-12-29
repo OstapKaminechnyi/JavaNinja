@@ -1,2 +1,0 @@
-# JavaNinja
-udemy course
