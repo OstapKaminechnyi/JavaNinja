@@ -5,7 +5,6 @@ public class SingleDimanArray {
         int iarr[] = new int[3];
         iarr[0] = 1;
         iarr[1] = 2;
-        iarr[2] = 3;
         System.out.println(iarr[0]);
 
         for (int i = 0; i < iarr.length; i = i + 1){
