@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="java loop control">
-      <change afterPath="$PROJECT_DIR$/src/interface1/ANZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/NIB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface1/TestInterface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_not_keyword/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_not_keyword/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/absvsinf/Abstract1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/absvsinf/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/absvsinf/SubClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="f1370cb1-cfe7-4aec-8090-64b621b08ce1" name="idontknowwhatyouwantfromme" comment="" />
@@ -74,14 +71,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="83" />
+          <entry key="java" value="86" />
           <entry key="kt" value="1" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="83" />
+          <entry key="JAVA" value="86" />
           <entry key="Kotlin" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
@@ -89,13 +86,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="12655" />
+          <entry key="java" value="12931" />
           <entry key="txt" value="120" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12655" />
+          <entry key="JAVA" value="12931" />
           <entry key="PLAIN_TEXT" value="129" />
         </counts>
       </usages-collector>
@@ -141,7 +138,11 @@
         <entry file="file://$PROJECT_DIR$/src/interface1/ANZ.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <folding>
+                <element signature="e#89#90#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -150,20 +151,57 @@
         <entry file="file://$PROJECT_DIR$/src/interface1/NIB.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding>
                 <element signature="e#89#90#0" expanded="true" />
-                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/interface1/TestInterface2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/absvsinf/Interface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/absvsinf/Abstract1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#86#87#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/interface1/TestInterface2.java">
+        <entry file="file://$PROJECT_DIR$/src/absvsinf/SubClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            <state relative-caret-position="187">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding>
+                <element signature="e#81#82#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -202,9 +240,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sample/AccessModifier.java" />
-        <option value="$PROJECT_DIR$/src/sample/ForLoop.java" />
-        <option value="$PROJECT_DIR$/src/sample/ForEachLoop.java" />
         <option value="$PROJECT_DIR$/src/sample/WhileLoop.java" />
         <option value="$PROJECT_DIR$/src/sample/DoWhileLoop.java" />
         <option value="$PROJECT_DIR$/src/sample/MultiDimArray.java" />
@@ -250,9 +285,12 @@
         <option value="$PROJECT_DIR$/src/interface_not_keyword/Printable.java" />
         <option value="$PROJECT_DIR$/src/interface_not_keyword/A.java" />
         <option value="$PROJECT_DIR$/src/interface1/Bank.java" />
-        <option value="$PROJECT_DIR$/src/interface1/ANZ.java" />
         <option value="$PROJECT_DIR$/src/interface1/NIB.java" />
+        <option value="$PROJECT_DIR$/src/interface1/ANZ.java" />
         <option value="$PROJECT_DIR$/src/interface1/TestInterface2.java" />
+        <option value="$PROJECT_DIR$/src/absvsinf/Interface.java" />
+        <option value="$PROJECT_DIR$/src/absvsinf/Abstract1.java" />
+        <option value="$PROJECT_DIR$/src/absvsinf/SubClass.java" />
       </list>
     </option>
   </component>
@@ -298,13 +336,7 @@
               <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="workspace" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interface1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="workspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="workspace" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="interface_not_keyword" type="462c0819:PsiDirectoryNode" />
+              <item name="absvsinf" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -323,7 +355,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Repo/JavaNinja/workspace/src/sample/SingleDimanArray.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546465952942" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546466631893" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
@@ -345,7 +377,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestInterface2">
+  <component name="RunManager" selected="Application.Object1">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -392,20 +424,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hierarchical" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hierarchicalinheritance.Hierarchical" />
-      <module name="JavaNinja" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hierarchicalinheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
       <module name="JavaNinja" />
@@ -418,6 +436,20 @@
       </extension>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Object1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="absvsinf.Object1" />
+      <module name="JavaNinja" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="absvsinf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -487,19 +519,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Hierarchical" />
       <item itemvalue="Application.Dog" />
       <item itemvalue="Application.TestAbstraction" />
       <item itemvalue="Application.A" />
       <item itemvalue="Application.TestInterface2" />
+      <item itemvalue="Application.Object1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Object1" />
         <item itemvalue="Application.TestInterface2" />
         <item itemvalue="Application.A" />
         <item itemvalue="Application.TestAbstraction" />
         <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.Hierarchical" />
       </list>
     </recent_temporary>
   </component>
@@ -517,7 +549,7 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1546108935364" duration="13838000" />
       <workItem from="1546373291981" duration="7039000" />
-      <workItem from="1546456938566" duration="8639000" />
+      <workItem from="1546456938566" duration="9383000" />
     </task>
     <task id="LOCAL-00001" summary="test commit from Intellij">
       <created>1546373433983</created>
@@ -537,7 +569,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30818000" />
+    <option name="totallyTimeSpent" value="31562000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -561,7 +593,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -574,7 +606,7 @@
       <window_info anchor="bottom" id="Event Log" order="12" weight="0.32907802" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32907802" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="15" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="15" visible="true" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -631,27 +663,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sample/WhileLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/DoWhileLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/ForLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/ForEachLoop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1077,28 +1088,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/interface1/ANZ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/interface1/NIB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding>
             <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interface1/ANZ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/interface1/TestInterface2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        <state relative-caret-position="85">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/absvsinf/Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/absvsinf/Abstract1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#86#87#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/absvsinf/SubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#81#82#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
