@@ -2,7 +2,7 @@ package singleinheritance;
 
 public class B extends A {
     public void methodB(){
-        System.out.println("Child class method");
+        System.out.println("Child class Method");
     }
 
     public static void main(String[] args){

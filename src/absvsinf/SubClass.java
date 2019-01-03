@@ -2,7 +2,7 @@ package absvsinf;
 
 public class SubClass extends Abstract1 {
     public void a() {
-        System.out.println("I am method a");
+        System.out.println("I am Method a");
     }
 
     public void b() {

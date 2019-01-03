@@ -2,6 +2,6 @@ package singleinheritance;
 
 public class A {
     public void methodA(){
-        System.out.println("Base class method");
+        System.out.println("Base class Method");
     }
 }
