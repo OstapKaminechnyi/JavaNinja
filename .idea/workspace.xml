@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="java loop control">
-      <change afterPath="$PROJECT_DIR$/src/stack/DynamicStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/MyDynamicStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stack/TowerOfHenoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/Dequeue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/QueueArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaNinja/stack/DynamicStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaNinja/stack/DynamicStack.class" afterDir="false" />
     </list>
     <list id="f1370cb1-cfe7-4aec-8090-64b621b08ce1" name="idontknowwhatyouwantfromme" comment="" />
     <ignored path="JavaFxApplication.iws" />
@@ -75,7 +74,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="140" />
+          <entry key="java" value="142" />
           <entry key="kt" value="1" />
           <entry key="md" value="1" />
           <entry key="txt" value="3" />
@@ -83,7 +82,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="140" />
+          <entry key="JAVA" value="142" />
           <entry key="Kotlin" value="1" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
@@ -92,14 +91,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="20850" />
+          <entry key="java" value="22830" />
           <entry key="md" value="192" />
           <entry key="txt" value="133" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="20850" />
+          <entry key="JAVA" value="22830" />
           <entry key="Markdown" value="192" />
           <entry key="PLAIN_TEXT" value="142" />
         </counts>
@@ -111,30 +110,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/enuminheritance/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/enumconstructor/Color.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-              <folding>
-                <element signature="e#89#90#0" expanded="true" />
-                <element signature="e#157#158#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/enumconstructor/Test.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -187,7 +162,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/stack/DynamicStack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -199,6 +174,32 @@
                 <element signature="e#874#875#0" expanded="true" />
                 <element signature="e#1182#1183#0" expanded="true" />
                 <element signature="e#1222#1223#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/queue/QueueArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
+              <folding>
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#220#221#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/queue/Dequeue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#140#149#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -257,8 +258,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/poly/Vehicle.java" />
-        <option value="$PROJECT_DIR$/src/poly/Car.java" />
         <option value="$PROJECT_DIR$/src/poly/Test.java" />
         <option value="$PROJECT_DIR$/src/methodoverloading/Method.java" />
         <option value="$PROJECT_DIR$/src/methodoverloading/Main.java" />
@@ -308,6 +307,8 @@
         <option value="$PROJECT_DIR$/src/stack/TowerOfHenoi.java" />
         <option value="$PROJECT_DIR$/src/stack/MyDynamicStack.java" />
         <option value="$PROJECT_DIR$/src/stack/DynamicStack.java" />
+        <option value="$PROJECT_DIR$/src/queue/QueueArray.java" />
+        <option value="$PROJECT_DIR$/src/queue/Dequeue.java" />
       </list>
     </option>
   </component>
@@ -396,7 +397,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Repo/JavaNinja/workspace/src/sample/SingleDimanArray.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546682322211" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546687185390" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../NoMakler/NoMaklerApp" />
     <property name="recentsLimit" value="5" />
@@ -418,7 +419,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TowerOfHenoi">
+  <component name="RunManager" selected="Application.Dequeue">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -437,13 +438,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BitCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bitset.BitCons" />
+    <configuration name="Dequeue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.Dequeue" />
       <module name="JavaNinja" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bitset.*" />
+          <option name="PATTERN" value="queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -481,6 +482,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="QueueArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.QueueArray" />
+      <module name="JavaNinja" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.Stack" />
       <module name="JavaNinja" />
@@ -502,20 +517,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VectorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vector.VectorDemo" />
-      <module name="JavaNinja" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vector.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -560,19 +561,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.BitCons" />
-      <item itemvalue="Application.VectorDemo" />
       <item itemvalue="Application.Stack" />
       <item itemvalue="Application.DynamicStack" />
       <item itemvalue="Application.TowerOfHenoi" />
+      <item itemvalue="Application.QueueArray" />
+      <item itemvalue="Application.Dequeue" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Dequeue" />
+        <item itemvalue="Application.QueueArray" />
         <item itemvalue="Application.TowerOfHenoi" />
         <item itemvalue="Application.DynamicStack" />
         <item itemvalue="Application.Stack" />
-        <item itemvalue="Application.VectorDemo" />
-        <item itemvalue="Application.BitCons" />
       </list>
     </recent_temporary>
   </component>
@@ -593,7 +594,7 @@
       <workItem from="1546456938566" duration="10814000" />
       <workItem from="1546539001239" duration="10485000" />
       <workItem from="1546552677106" duration="686000" />
-      <workItem from="1546631006728" duration="11262000" />
+      <workItem from="1546631006728" duration="13996000" />
     </task>
     <task id="LOCAL-00001" summary="test commit from Intellij">
       <created>1546373433983</created>
@@ -613,7 +614,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55426000" />
+    <option name="totallyTimeSpent" value="58160000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -628,7 +629,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.27046978" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.27046978" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" />
       <window_info id="Designer" order="3" />
@@ -637,7 +638,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -707,20 +708,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/absvsinf/Object1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/poly/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1088,6 +1075,28 @@
             <element signature="e#874#875#0" expanded="true" />
             <element signature="e#1182#1183#0" expanded="true" />
             <element signature="e#1222#1223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/queue/QueueArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/queue/Dequeue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="52" column="8" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#140#149#0" expanded="true" />
           </folding>
         </state>
       </provider>
