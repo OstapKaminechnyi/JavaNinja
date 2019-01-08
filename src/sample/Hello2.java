@@ -6,4 +6,6 @@ public class Hello2 {
     System.out.print("What is your name?");
     String userInputName = userInputScanner.nextLine();
     System.out.println("Hello " + userInputName + "!");
-}}
+}
+
+}
