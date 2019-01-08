@@ -20,7 +20,7 @@ public class ConstructorOverloading {
     }
     public static void main(String args[]){
         ConstructorOverloading obj1 = new ConstructorOverloading(11,"Ostap");
-        ConstructorOverloading obj2 = new ConstructorOverloading(12, "Matviy",12);
+        ConstructorOverloading obj2 = new ConstructorOverloading(12, "Kaminechnyi",12);
         obj1.display();
         obj2.display();
     }
