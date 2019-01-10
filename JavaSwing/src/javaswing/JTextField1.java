@@ -2,7 +2,7 @@ package javaswing;
 
 import javax.swing.*;
 
-public class JTextfield {
+public class JTextField1 {
     public static void main(String[] a){
         JFrame f = new JFrame("Text Field");
         JTextField t1,t2;
