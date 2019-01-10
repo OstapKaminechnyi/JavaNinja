@@ -2,7 +2,7 @@ package javaswing;
 
 import javax.swing.*;
 
-public class Jlabel {
+public class JLabel1 {
     public static void main(String[] a){
         JFrame f = new JFrame("Label Example");
         JLabel l1,l2;

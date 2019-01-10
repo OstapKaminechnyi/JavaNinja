@@ -2,8 +2,8 @@ package javaswing;
 
 import javax.swing.*;
 
-public class Jbutton {
-    Jbutton(){
+public class JButton1 {
+    JButton1(){
         JFrame frame = new JFrame();
         JButton b = new JButton("Click me");
         b.setBounds(50,50,90,250);
@@ -15,6 +15,6 @@ public class Jbutton {
 
     }
     public static void main(String[] a){
-        new Jbutton();
+        new JButton1();
     }
 }
