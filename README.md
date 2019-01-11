@@ -1,9 +1,10 @@
 # JavaNinja
 ### _Udemy Course_ 
-1. Introduction
-2. Java Object Oriented
-3. Java Data Structure
-4. Java Swing 
-5. Java Layout Manager 
-6. Make Apps With Java Swing
-7. Sqlite With Java (Database)
+- [x] Introduction
+- [x] Java Object Oriented
+- [x] Java Data Structure
+- [x] Java Swing
+- [ ] Java Layout Manager
+- [ ] Make Apps With Java String
+- [ ] Sqlite With Java (Database)
+
