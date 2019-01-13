@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-    </list>
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -86,7 +84,7 @@
     <session id="-261659826">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.42" value="2" />
@@ -113,14 +111,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="18674" />
-          <entry key="md" value="8" />
+          <entry key="java" value="18678" />
+          <entry key="md" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="18674" />
-          <entry key="Markdown" value="8" />
+          <entry key="JAVA" value="18678" />
+          <entry key="Markdown" value="9" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -174,7 +172,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javaswing/FlowLayout1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="391">
               <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -186,18 +184,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="102">
-                <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -240,7 +226,7 @@
         <entry file="file://$PROJECT_DIR$/src/javaswing/ScrollPaneLayout1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -328,12 +314,12 @@
         <option value="$PROJECT_DIR$/src/javaswing/WebBrowser.java" />
         <option value="$PROJECT_DIR$/src/javaswing/BorderLayout1.java" />
         <option value="$PROJECT_DIR$/src/javaswing/GridLayout1.java" />
-        <option value="$PROJECT_DIR$/src/javaswing/FlowLayout1.java" />
         <option value="$PROJECT_DIR$/src/javaswing/BoxLayout.java" />
         <option value="$PROJECT_DIR$/src/javaswing/CardLayout1.java" />
         <option value="$PROJECT_DIR$/src/javaswing/ScrollPaneLayout1.java" />
-        <option value="$PROJECT_DIR$/../README.md" />
         <option value="$PROJECT_DIR$/../../README.md" />
+        <option value="$PROJECT_DIR$/src/javaswing/FlowLayout1.java" />
+        <option value="$PROJECT_DIR$/../README.md" />
       </list>
     </option>
   </component>
@@ -394,12 +380,6 @@
               <item name="JavaSwing" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="JavaSwing" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="JavaSwing" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaSwing" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="javaswing" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -611,12 +591,12 @@
       <workItem from="1547203581859" duration="7503000" />
       <workItem from="1547239461082" duration="2381000" />
       <workItem from="1547327500983" duration="1439000" />
-      <workItem from="1547408775596" duration="237000" />
+      <workItem from="1547408775596" duration="496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38295000" />
+    <option name="totallyTimeSpent" value="38554000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -988,18 +968,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaswing/FlowLayout1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#681#682#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaswing/BoxLayout.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1033,11 +1001,11 @@
     <entry file="file://$PROJECT_DIR$/src/javaswing/ScrollPaneLayout1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../README.md">
+    <entry file="file://$PROJECT_DIR$/../../README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="102">
@@ -1047,7 +1015,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../README.md">
+    <entry file="file://$PROJECT_DIR$/src/javaswing/FlowLayout1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="102">
