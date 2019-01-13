@@ -4,7 +4,7 @@
 - [x] Java Object Oriented
 - [x] Java Data Structure
 - [x] Java Swing
-- [ ] Java Layout Manager
+- [x] Java Layout Manager
 - [ ] Make Apps With Java String
 - [ ] Sqlite With Java (Database)
 
