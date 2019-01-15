@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Sqlite (Xerial) - identifier.sqlite" uuid="39652439-fef7-4a6f-a07f-5ed53dc2784d">
+      <database-info product="SQLite" version="3.25.1" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.25.1" family="SQLITE" exact-version="3.25.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <auth-required>false</auth-required>
+      <introspection-schemas>*:@</introspection-schemas>
+    </data-source>
+    <data-source name="test" uuid="8e434192-98d0-451c-be30-00479f367209">
+      <database-info product="SQLite" version="3.25.1" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.25.1" family="SQLITE" exact-version="3.25.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <auth-required>false</auth-required>
+      <introspection-schemas>*:@</introspection-schemas>
+    </data-source>
+  </component>
+</project>
