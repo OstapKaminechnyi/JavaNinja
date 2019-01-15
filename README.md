@@ -5,6 +5,6 @@
 - [x] Java Data Structure
 - [x] Java Swing
 - [x] Java Layout Manager
-- [ ] Make Apps With Java String
+- [x] Make Apps With Java String
 - [ ] Sqlite With Java (Database)
 
