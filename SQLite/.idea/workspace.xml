@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87d34582-1963-40a7-b278-70211cfb492f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DeleteRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IUDAPP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SelectCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelectCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.db" beforeDir="false" afterPath="$PROJECT_DIR$/test.db" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -62,6 +61,13 @@
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="test" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="90513b60:SqliteImplModel$Schema" />
+        <item name="Users: table" type="ffe0bd85:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
         <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
     </expand>
@@ -80,16 +86,17 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="company" value="2" />
-          <entry key="java" value="6" />
+          <entry key="java" value="7" />
           <entry key="md" value="1" />
           <entry key="sql" value="1" />
           <entry key="sqlite_master" value="2" />
+          <entry key="users" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Database Element" value="4" />
-          <entry key="JAVA" value="6" />
+          <entry key="Database Element" value="5" />
+          <entry key="JAVA" value="7" />
           <entry key="Markdown" value="1" />
           <entry key="Scratch" value="1" />
         </counts>
@@ -97,12 +104,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cell" value="39" />
-          <entry key="java" value="1683" />
+          <entry key="java" value="3064" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1683" />
+          <entry key="JAVA" value="3064" />
           <entry key="Scratch" value="39" />
         </counts>
       </usages-collector>
@@ -110,30 +117,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SQLiteDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CreatingATable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/InsertRecords.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -146,7 +129,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SelectCommand.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
@@ -172,6 +155,29 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="das://8e434192-98d0-451c-be30-00479f367209/schema/main/table/company">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IUDAPP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="62" column="57" selection-start-line="62" selection-start-column="57" selection-end-line="62" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4036#4037#0" expanded="true" />
+                <element signature="e#4063#4064#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="das://8e434192-98d0-451c-be30-00479f367209/schema/main/table/users">
           <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
             <state>
               <filtering enabled="true" />
@@ -242,6 +248,7 @@
         <option value="$PROJECT_DIR$/src/UpdateRecord.java" />
         <option value="$PROJECT_DIR$/src/DeleteRecord.java" />
         <option value="$PROJECT_DIR$/src/SelectCommand.java" />
+        <option value="$PROJECT_DIR$/src/IUDAPP.java" />
       </list>
     </option>
   </component>
@@ -293,7 +300,7 @@
     <property name="DatabaseDriversLRU" value="sqlite.xerial" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547670715836" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547674659319" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../README.md" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -314,16 +321,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SelectCommand">
-    <configuration name="CreatingATable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CreatingATable" />
+  <component name="RunManager" selected="Application.IUDAPP">
+    <configuration name="DeleteRecord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DeleteRecord" />
       <module name="SQLite" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteRecord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeleteRecord" />
+    <configuration name="IUDAPP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IUDAPP" />
       <module name="SQLite" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -351,19 +358,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CreatingATable" />
       <item itemvalue="Application.InsertRecords" />
       <item itemvalue="Application.SelectCommand" />
       <item itemvalue="Application.UpdateRecord" />
       <item itemvalue="Application.DeleteRecord" />
+      <item itemvalue="Application.IUDAPP" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IUDAPP" />
         <item itemvalue="Application.SelectCommand" />
         <item itemvalue="Application.DeleteRecord" />
         <item itemvalue="Application.UpdateRecord" />
         <item itemvalue="Application.InsertRecords" />
-        <item itemvalue="Application.CreatingATable" />
       </list>
     </recent_temporary>
   </component>
@@ -378,12 +385,12 @@
       <option name="presentableId" value="Default" />
       <updated>1547580739648</updated>
       <workItem from="1547580744667" duration="3695000" />
-      <workItem from="1547668881450" duration="1827000" />
+      <workItem from="1547668881450" duration="5619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5522000" />
+    <option name="totallyTimeSpent" value="9314000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -396,7 +403,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -407,7 +413,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,7 +429,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" weight="0.3295302" />
+      <window_info active="true" anchor="right" id="Database" order="5" visible="true" weight="0.3295302" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
@@ -517,6 +523,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="das://8e434192-98d0-451c-be30-00479f367209/schema/main/table/sqlite_master">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SelectCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/UpdateRecord.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -524,13 +547,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://8e434192-98d0-451c-be30-00479f367209/schema/main/table/sqlite_master">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -551,13 +567,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SelectCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/IUDAPP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        <state relative-caret-position="289">
+          <caret line="62" column="57" selection-start-line="62" selection-start-column="57" selection-end-line="62" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#4036#4037#0" expanded="true" />
+            <element signature="e#4063#4064#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://8e434192-98d0-451c-be30-00479f367209/schema/main/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
