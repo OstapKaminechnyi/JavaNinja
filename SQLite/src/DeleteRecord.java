@@ -3,7 +3,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
 
-public class SelectCommand {
+public class DeleteRecord {
     public static void main(String[] a) {
         Connection connection = null;
         Statement statement = null;
@@ -13,6 +13,9 @@ public class SelectCommand {
             connection.setAutoCommit(false);
             System.out.print("Open database");
             statement = connection.createStatement();
+            String sql = "DELETE from COMPANY where ID=2;";
+            statement.executeUpdate(sql);
+            connection.commit();
             ResultSet resultSet = statement.executeQuery("SELECT * FROM COMPANY");
             while (resultSet.next()) {
                 int id = resultSet.getInt("id");
@@ -21,23 +24,20 @@ public class SelectCommand {
                 String address = resultSet.getString("address");
                 float salary = resultSet.getFloat("salary");
 
-                System.out.print("\n ID= " + id);
-                System.out.print("\n NAME= " + name);
-                System.out.print("\n AGE= " + age);
-                System.out.print("\n ADDRESS= " + address);
-                System.out.print("\n SALARY= " + salary);
+                System.out.print("ID= " + id);
+                System.out.print("NAME= " + name);
+                System.out.print("AGE= " + age);
+                System.out.print("ADDRESS= " + address);
+                System.out.print("SALARY= " + salary);
                 System.out.println();
+                resultSet.close();
+                statement.close();
             }
-            resultSet.close();
-            statement.close();
-            connection.close();
-
         } catch (Exception e) {
             System.out.print(e.getClass().getName() + ":" + e.getMessage());
             System.exit(0);
 
         }
-        System.out.println("Operation is done");
-
+        System.out.print("Record Done");
     }
 }
