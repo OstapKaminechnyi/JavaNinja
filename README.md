@@ -6,5 +6,5 @@
 - [x] Java Swing
 - [x] Java Layout Manager
 - [x] Make Apps With Java String
-- [ ] Sqlite With Java (Database)
+- [x] Sqlite With Java (Database)
 
