@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6e55520-c597-4df7-a510-3ec3744212c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/JavaSwing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/1200px-Django_logo.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/1200px-SQLite370.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/1_ipwpqQrHz0Lkd_5setXQCQ.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/220px-Kotlin-logo.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/246x0w.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/ActionListenerJTextField.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/BorderLayout1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/BoxLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/ButtonExample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/CardLayout1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/CheckBoxExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/CheckBoxMenuItemExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/Clock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/CustomDesktopPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/EditorPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/FileChooser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/FlowLayout1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/Graphics1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/GridLayout1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/ImagesCanvas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JButton1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JCheckBox1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JColorChooser1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JCombo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JCombo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JComboBox1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JComp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JComponent1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JDesktopPane1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JFrame1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JLabel1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JList1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JMenuBar1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JMenuBar2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JPassword1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JProgressBar1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JRadioButton1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JSeperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JTable1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JTextArea1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JTextField1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JToggleButton1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JToggleButton2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JToggleButton2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JToolBar1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JTreeNode1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JTreeNode1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/JTreeNode2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/LayeredPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/MenuFiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/OptionPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/OptionPane1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/OptionPane2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/Popup$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/Popup$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/Popup$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/Popup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/RadioButtonAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/RootPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/Scrapy-Logo-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/ScrollPane$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/ScrollPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/ScrollPaneLayout1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/Scrollbar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/SplitPane$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/SplitPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/TextPane.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/TitleBar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/ToolTip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/ViewPort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/WebBrowser$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/WebBrowser$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/WebBrowser$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/WebBrowser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/docker_facebook_share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/out/production/JavaSwing/javaswing/opengraph-icon-200x200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/1200px-Django_logo.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/1200px-SQLite370.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/1_ipwpqQrHz0Lkd_5setXQCQ.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/220px-Kotlin-logo.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/246x0w.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/ActionListenerJTextField.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/BorderLayout1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/BoxLayout.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/ButtonExample1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/CardLayout1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/CheckBoxExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/CheckBoxMenuItemExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/Clock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/CustomDesktopPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/EditorPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/FileChooser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/FlowLayout1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/Graphics1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/GridLayout1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/ImagesCanvas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JButton1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JCheckBox1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JColorChooser1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JCombo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JComboBox1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JComp1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JComponent1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JDesktopPane1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JFrame1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JLabel1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JList1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JMenuBar1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JMenuBar2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JPassword1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JProgressBar1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JRadioButton1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JSeperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JTable1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JTextArea1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JTextField1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JToggleButton1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JToggleButton2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JToolBar1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JTreeNode1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/JTreeNode2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/LayeredPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/MenuFiles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/OptionPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/OptionPane1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/OptionPane2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/Popup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/RadioButtonAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/RootPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/Scrapy-Logo-big.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/ScrollPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/ScrollPaneLayout1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/Scrollbar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/SplitPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/TextPane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/TitleBar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/ToolTip.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/ViewPort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/WebBrowser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/docker_facebook_share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaSwing/src/javaswing/opengraph-icon-200x200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/dataSources/39652439-fef7-4a6f-a07f-5ed53dc2784d.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/dataSources/39652439-fef7-4a6f-a07f-5ed53dc2784d/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/dataSources/8e434192-98d0-451c-be30-00479f367209.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/dataSources/8e434192-98d0-451c-be30-00479f367209/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/libraries/sqlite_jdbc_3_23_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/SQLite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/out/production/SQLite/CreatingATable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/out/production/SQLite/DeleteRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/out/production/SQLite/IUDAPP$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/out/production/SQLite/IUDAPP$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/out/production/SQLite/IUDAPP$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/out/production/SQLite/IUDAPP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/out/production/SQLite/InsertRecords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/out/production/SQLite/SQLiteDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/out/production/SQLite/SelectCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/out/production/SQLite/UpdateRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/src/CreatingATable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/src/DeleteRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/src/IUDAPP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/src/InsertRecords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/src/SQLiteDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/src/SelectCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/src/UpdateRecord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLite/test.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/out/production/projects in java/com/company/Animation$DrawPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/out/production/projects in java/com/company/Animation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/out/production/projects in java/com/company/IPFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/out/production/projects in java/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/out/production/projects in java/com/company/Puzzle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/projects in java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/src/com/company/Animation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/src/com/company/IPFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projects in java/src/com/company/Puzzle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/JavaNinja.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/Sorting/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/Sorting/InsertionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/Sorting/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/Sorting/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/abstraction/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/abstraction/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/abstraction2/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/abstraction2/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/abstraction2/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/abstraction2/TestAbstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/absvsinf/Abstract1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/absvsinf/Interface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/absvsinf/Object1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/absvsinf/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/accessmodifier/Pack1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/accessmodifier/Pack2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/accessmodifier/Private1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/accessmodifier/Private2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/bitset/BitCons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/bitset/BitSet1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/defaultaccess/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/defaultaccess/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/encapsulation/EncapsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/encapsulation/Encapsulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/enumconstructor/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/enumconstructor/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/enumeration/Enum1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/enumeration/EnumerationTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/enumeration1/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/enumeration1/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/enuminheritance/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/enuminheritance/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/hashtable/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/hashtable/hashTable1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/hierarchicalinheritance/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/hierarchicalinheritance/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/hierarchicalinheritance/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/hierarchicalinheritance/Hierarchical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/inheritance/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/inheritance/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/inheritance2/CompTeacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/inheritance2/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/interface1/ANZ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/interface1/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/interface1/NIB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/interface1/TestInterface2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/interface_not_keyword/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/interface_not_keyword/Printable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/linkedlist1/LinkedListExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/linkedlist1/LinkedListNOTKEYWORD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/linkedlist1/Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/methodoverloading/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/methodoverloading/Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/methodoverriding/Boy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/methodoverriding/Human.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/methodoverriding1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/methodoverriding1/Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/methodoverriding1/SubClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/multilevelinheritance/BMW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/multilevelinheritance/BMW15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/multilevelinheritance/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/multithreading/Multithreading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/multithreading2/Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/multithreading2/ExtendingExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/mypackage/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/mypackage/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/poly/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/poly/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/poly/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/polymorphism/StaticPolymorphism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/polymorphism/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/queue/Dequeue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/queue/QueueArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/AccessModifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/ArrayListNotKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/AssignmentOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/BitwiseOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/BooleanDataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/ByteDataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/CRUDArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/CharDataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/Constructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/ConstructorOverloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/ConstructorOverloading2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/DateFormating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/DateTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/DoWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/DoubleDataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/ElseIfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/Exception.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/FileInputOutput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/Finally.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/FloatDataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/ForEachLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/ForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/Hello2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/IfElseStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/IfStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/IncDecOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/JavaClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/ListInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/LogicalOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/LongDataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/Method.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/MultiDimArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/Object.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/Operators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/ParameterizedCons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/ParameterizedCons2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/PassingParameterByValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/Prop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/RegularExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/RelationalOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/ShortDataType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/SingleDimanArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/Sorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/StringConcatinating.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/StringLength.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/SwitchStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/TernaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/ThrowEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/TreeSetNOTKEYWORDAGAIN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/Variable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/Variable1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/VariableAndDataType4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/VariablesAndDataType3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/VariablesAndDataTypes2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/WhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/string.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/variable2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/variable3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/variable4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/sample/variable5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/singleinheritance/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/singleinheritance/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/stack/DynamicStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/stack/MyDynamicStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/stack/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/stack/TowerOfHenoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/superkeyword/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/superkeyword/HR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/superkeyword/SuperVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/superkeyword1/Pers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/superkeyword1/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/superkeyword1/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/thiskeyword/This1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/thiskeyword/This11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/thiskeyword/ThisMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/thread/Multithreading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/out/production/JavaNinja/vector/VectorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/Sorting/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/Sorting/InsertionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/Sorting/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/Sorting/SelectionSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/abstraction/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/abstraction/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/abstraction2/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/abstraction2/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/abstraction2/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/abstraction2/TestAbstraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/absvsinf/Abstract1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/absvsinf/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/absvsinf/Object1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/absvsinf/SubClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/accessmodifier/Pack1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/accessmodifier/Pack2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/accessmodifier/Private1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/accessmodifier/Private2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/bitset/BitCons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/bitset/BitSet1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/defaultaccess/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/defaultaccess/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/encapsulation/EncapsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/encapsulation/Encapsulation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/enumconstructor/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/enumconstructor/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/enumeration/Enum1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/enumeration/EnumerationTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/enumeration1/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/enumeration1/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/enuminheritance/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/enuminheritance/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/hashtable/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/hashtable/hashTable1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/hierarchicalinheritance/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/hierarchicalinheritance/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/hierarchicalinheritance/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/hierarchicalinheritance/Hierarchical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/inheritance/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/inheritance/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/inheritance2/CompTeacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/inheritance2/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/interface1/ANZ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/interface1/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/interface1/NIB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/interface1/TestInterface2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/interface_not_keyword/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/interface_not_keyword/Printable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/linkedlist1/LinkedListExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/linkedlist1/LinkedListNOTKEYWORD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/linkedlist1/Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/methodoverloading/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/methodoverloading/Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/methodoverriding/Boy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/methodoverriding/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/methodoverriding1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/methodoverriding1/Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/methodoverriding1/SubClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/multilevelinheritance/BMW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/multilevelinheritance/BMW15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/multilevelinheritance/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/multithreading/Multithreading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/multithreading2/Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/multithreading2/ExtendingExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/mypackage/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/mypackage/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/poly/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/poly/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/poly/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/polymorphism/StaticPolymorphism.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/polymorphism/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/queue/Dequeue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/queue/QueueArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/AccessModifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/ArrayListNotKeyword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/AssignmentOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/BitwiseOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/BooleanDataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/ByteDataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/CRUDArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/CharDataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/Constructor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/ConstructorOverloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/ConstructorOverloading2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/DateFormating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/DateTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/DoWhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/DoubleDataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/ElseIfStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/Exception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/FileInputOutput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/Finally.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/FloatDataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/ForEachLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/ForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/Hello2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/IfElseStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/IfStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/IncDecOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/JavaClasses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/ListInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/LogicalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/LongDataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/Method.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/MultiDimArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/Object.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/Operators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/ParameterizedCons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/ParameterizedCons2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/PassingParameterByValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/Prop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/RegularExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/RelationalOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/ShortDataType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/SingleDimanArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/Sorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/StringConcatinating.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/StringLength.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/SwitchStatement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/TernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/ThrowEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/TreeSetNOTKEYWORDAGAIN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/Variable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/Variable1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/VariableAndDataType4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/VariablesAndDataType3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/VariablesAndDataTypes2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/WhileLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/string.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/variable2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/variable3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/variable4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/sample/variable5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/singleinheritance/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/singleinheritance/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/stack/DynamicStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/stack/MyDynamicStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/stack/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/stack/TowerOfHenoi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/superkeyword/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/superkeyword/HR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/superkeyword/SuperVariable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/superkeyword1/Pers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/superkeyword1/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/superkeyword1/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/thiskeyword/This1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/thiskeyword/This11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/thiskeyword/ThisMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/thread/Multithreading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workspace/src/vector/VectorDemo.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2068796499">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1615" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-march-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-march-course" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6e55520-c597-4df7-a510-3ec3744212c3" name="Default Changelist" comment="" />
+      <created>1552482331367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552482331367</updated>
+      <workItem from="1552482333256" duration="124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="124000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java-march-course</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
