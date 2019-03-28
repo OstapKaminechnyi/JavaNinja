@@ -1,4 +1,4 @@
-# JavaNinja
+# Java Courses
 ### _Udemy Course_ 
 - [x] Introduction
 - [x] Java Object Oriented
