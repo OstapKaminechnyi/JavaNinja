@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class Main {
+public class EchoClient {
 
     public static void main(String[] args) {
         try (Socket socket = new Socket("localhost", 5000)){
