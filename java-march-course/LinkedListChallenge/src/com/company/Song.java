@@ -1,6 +1,6 @@
 package com.company;
 
-public class Song {
+public class Song implements Box  {
     private String title;
     private double duration;
 
